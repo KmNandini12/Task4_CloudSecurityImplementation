@@ -138,3 +138,5 @@ This task successfully demonstrated the creation and configuration of a **secure
 <img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/96da46f5-db9d-4498-bd6b-e4f8949f14ac" />
 
 <img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/b62caf7f-1b8e-4caf-b725-825ded8b8dde" />
+
+report and other screenshots have been uploaded in the files section
