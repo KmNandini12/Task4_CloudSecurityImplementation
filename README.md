@@ -131,3 +131,10 @@ The objective of Task 4 is to implement a secure cloud storage system using **Am
 This task successfully demonstrated the creation and configuration of a **secure cloud storage environment** using AWS S3. It involved working with **IAM users**, **custom policies**, **bucket encryption**, and **access control verification**. All configurations followed AWS security best practices and provided hands-on experience in cloud security management.
 
 ---
+**OUTPUT**
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/45b6c4de-30ce-4f6d-bfec-ab27bfbae02b" />
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/96da46f5-db9d-4498-bd6b-e4f8949f14ac" />
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/b62caf7f-1b8e-4caf-b725-825ded8b8dde" />
